@@ -1,0 +1,14 @@
+{
+    "type": "module",
+    "scripts": {
+        "dev": "vite"
+    },
+    "dependencies": {
+        "vue": "latest",
+        "vue-router": "^4.6.4"
+    },
+    "devDependencies": {
+        "@vitejs/plugin-vue": "latest",
+        "vite": "^5.4.0"
+    }
+}
